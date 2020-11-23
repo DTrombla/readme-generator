@@ -18,5 +18,5 @@ pull requests are welcome but please contact me beforehand if you want to make a
 Contact me with questions or suggestions at duncan@trombla.org or message me on github!
 
 ## Application Media
-![Demo Video](https://drive.google.com/file/d/15yXNgShdVe1vaOF6_jRkGt4LPey4rbOA/preview)
+https://drive.google.com/file/d/15yXNgShdVe1vaOF6_jRkGt4LPey4rbOA/preview
 
