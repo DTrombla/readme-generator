@@ -11,12 +11,12 @@ copy the generator files into your project then run it using node in terminal
 Answer the prompts in the terminal after running index.js to generate a readme file that contains the answers you provide
 
 ## Contributing
-pull reuqests are welcome but please contact me beforehand if you want to make any big changes
+pull requests are welcome but please contact me beforehand if you want to make any big changes
 
 
 ## Contact me
-Contact me with questions or suggestions at duncan@trombla.orgg or message me on github!
+Contact me with questions or suggestions at duncan@trombla.org or message me on github!
 
 ## Application Media
-![Demo Video](
+![Demo Video](https://drive.google.com/file/d/15yXNgShdVe1vaOF6_jRkGt4LPey4rbOA/preview)
 
